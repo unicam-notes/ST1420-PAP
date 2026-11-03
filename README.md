@@ -1,12 +1,13 @@
-# ST1420-PAP
-Paradigmi Avanzati di Programmazione.
+# ST1420 | Paradigmi Avanzati di Programmazione
 
-A.A. 2026/2027
+**A.A. 2026/2027** · [CINECA](https://unicam.coursecatalogue.cineca.it/corsi/2022/10028/insegnamenti/2024/10663/2021/10000?schemaid=4013)
 
 ## Modulo I: Enterprise
-**Professore:** Federico Paoloni <br>
-**Tutor:** Lorenzo Pane <br>
+
+**Professore:** Federico Paoloni   <br>
+**Tutor:** [Lorenzo Pane](https://github.com/Colenso242)
 
 ## Modulo II: Funzionale
+
 **Professore:** Rosario Culmone <br>
-**Tutor:** Alessandro Massimo Mermali <br>
+**Tutor:** [Alessandro Massimo Mermali](https://github.com/ammermali)
