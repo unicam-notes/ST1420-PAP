@@ -9,5 +9,5 @@
 
 ## Modulo II: Funzionale
 
-**Professore:** Rosario Culmone <br>
+**Professore:** [Rosario Culmone](https://docenti.unicam.it/pdett.aspx?ids=N&tv=d&UteId=204&ru=RU) <br>
 **Tutor:** [Alessandro Massimo Mermali](https://github.com/ammermali)
